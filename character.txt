@@ -1,4 +1,6 @@
 Description char 1
-New commit
+New Ii commit
 New commit on main
 Commit on branch
+Yet another line
+Unstaged line
