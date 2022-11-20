@@ -4,3 +4,4 @@ New commit on main
 Commit on branch
 Yet another line
 Unstaged line
+Line2
