@@ -6,3 +6,4 @@ Yet another line
 Unstaged line
 Line2
 Line3
+Line4
