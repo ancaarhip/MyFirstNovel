@@ -4,3 +4,4 @@ Chapter 1
 - New line on detached
 Change 1
 Change 2
+Change 3
