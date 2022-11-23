@@ -1,2 +1,4 @@
 Add remote line
 Add new line remote
+New line stash
+
